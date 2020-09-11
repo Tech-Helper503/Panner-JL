@@ -25,3 +25,5 @@ While Creating Panner-JL.You learn:
 
 ## Contributing
 You can contribute by reporting. 
+
+We'll include All files Inside the master branch but also sorted into sorted into folders.Also you can look at a specific branch of the repositries to see onlyy that code
